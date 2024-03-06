@@ -1,0 +1,16 @@
+
+.not,
+.yes {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.not {
+    background-color: yellow;
+}
+
+.yes {
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
